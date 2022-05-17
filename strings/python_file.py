@@ -1,0 +1,1 @@
+print("Raw String can be wriiten within \"back ticks\" \n \t won't wrk")
